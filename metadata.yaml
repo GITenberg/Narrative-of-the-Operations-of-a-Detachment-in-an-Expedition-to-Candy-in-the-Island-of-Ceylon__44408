@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42740'
     url: http://www.gutenberg.org/2009/agents/42740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44408#Narrative-of-the-Operations-of-a-Detachment-in-an-Expedition-to-Candy-in-the-Island-of-Ceylon_
 gutenberg_issued: '2013-12-11'
 gutenberg_type: Text
 identifiers:
