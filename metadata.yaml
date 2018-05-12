@@ -1,0 +1,32 @@
+_repo: Narrative-of-the-Operations-of-a-Detachment-in-an-Expedition-to-Candy-in-the-Island-of-Ceylon__44408
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44408-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Arthur
+    alias: Johnston, A. (Arthur)
+    birthdate: 1778
+    deathdate: 1824
+    gutenberg_agent_id: '42740'
+    url: http://www.gutenberg.org/2009/agents/42740
+description: ''
+gutenberg_issued: '2013-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kandy (Sri Lanka) -- History'
+- !lcc 'DS'
+- !lcsh 'Sri Lanka -- History -- 1505-1948'
+title: 'Narrative of the Operations of a Detachment in an Expedition to Candy, in
+  the Island of Ceylon, in the Year 1804
+
+  With Some Observations on the Previous Campaign, and on the Nature of Candian Warfare,
+  etc., etc., etc.'
+url: http://www.gutenberg.org/ebooks/44408
